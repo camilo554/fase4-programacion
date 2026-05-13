@@ -1,0 +1,10 @@
+2026-05-12 23:14:36.529941 - Reserva exitosa para Carlos
+2026-05-12 23:14:36.531851 - Reserva exitosa para Ana
+2026-05-12 23:14:36.532321 - Reserva exitosa para Luis
+2026-05-12 23:14:36.532619 - ClienteError: El nombre no puede estar vacío
+2026-05-12 23:14:36.532899 - ClienteError: El cliente debe ser mayor de edad
+2026-05-12 23:14:36.533227 - ReservaError: La duración debe ser mayor a 0
+2026-05-12 23:14:36.533581 - Reserva exitosa para Lucia
+2026-05-12 23:14:36.534119 - Reserva exitosa para Andres
+2026-05-12 23:14:36.534659 - Reserva exitosa para Sofia
+2026-05-12 23:14:36.535219 - Reserva exitosa para Miguel
